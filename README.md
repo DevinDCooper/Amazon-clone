@@ -1,2 +1,2 @@
 # Amazon-clone
-side-project React amazon-clone 
+side-project:Amazon marketplace-clone 
